@@ -1,14 +1,19 @@
 # Emanuelly10
 
-Default
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+Welcome!
+<img align="right" width="400" height="400" src="foto.jpeg">
 
 # Welcome!
 
-## I'm Emanuelly!
+## I'm Emanuelly, it's a pleasure to have you here!
 
-… Insira suas descrições aqui!
+📕 Student of Analysis and Systems Development;
 
+💬 Intermediary English;
+
+📚 Intermediate knowledge: HTML5, CSS3, PHP, MySql and JavaScript;
+
+👩‍💻 Freelancer of WebSites;
 
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Emanuelly10)](https://github.com/Emanuelly10)
