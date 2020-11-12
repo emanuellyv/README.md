@@ -1,11 +1,10 @@
 # Emanuelly10
 
-Welcome!
 <img align="right" width="400" height="400" src="foto.jpeg">
 
 # Welcome!
 
-## I'm Emanuelly, it's a pleasure to have you here!
+## I'm Emanuelly, it's a pleasure to have you here, so let me present a little about myself!
 
 📕 Student of Analysis and Systems Development;
 
@@ -20,7 +19,3 @@ Welcome!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuellyvalenga/)](https://www.linkedin.com/in/emanuellyvalenga)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+41+995535744&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+41+995535744&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emanuelly.valenga@gmail.com)](mailto:emanuelly.valenga@gmail.com)
-
-- Thanks for visiting. 
-
-- Enjoy it!! o/
