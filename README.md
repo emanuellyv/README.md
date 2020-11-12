@@ -1,6 +1,6 @@
 # Emanuelly10
 
-<img align="right" src="foto.jpeg">
+<img align="right" heigth="400" src="foto.jpeg">
 
 # Welcome!
 
