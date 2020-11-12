@@ -1,6 +1,6 @@
 # Emanuelly10
 
-<img align="right" width="400" height="400" src="foto.jpeg">
+<img align="right" width="400" height="400" src="file:///C:/Users/User/Downloads/foto.jpeg">
 
 # Welcome!
 
