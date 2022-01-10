@@ -6,11 +6,11 @@
 
 ## I'm Emanuelly, it's a pleasure to have you here, so let me present a little about myself!
 
-📕 Student of Analysis and Systems Development;
+📕 Student of Node.JS, TypeScript, React and React Native;
 
 💬 Intermediary English;
 
-📚 Intermediate knowledge: HTML5, CSS3, PHP, MySql and JavaScript;
+📚 Intermediate knowledge: HTML5, CSS3 and JavaScript;
 
 👩‍💻 Freelancer of WebSites;
 
