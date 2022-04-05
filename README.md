@@ -6,13 +6,12 @@
 
 ## I'm Emanuelly, it's a pleasure to have you here, so let me present a little about myself!
 
-📕 Student of Node.JS, TypeScript, React and React Native;
+📕 Student of Analysis and Systems Development;
 
 💬 Intermediary English;
 
-📚 Intermediate knowledge: HTML5, CSS3 and JavaScript;
-
-👩‍💻 Freelancer of WebSites;
+📚 Intermediate knowledge: HTML5 and CSS3;
+📚 Basic knowledge: JavaScript, PHP, SQL and NodeJS;
 
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Emanuelly10)](https://github.com/Emanuelly10)
