@@ -1,6 +1,6 @@
 # Emanuelly Valenga Dias
 
-<img align="right" height="400" src="foto.jpeg">
+<img align="right" height="400" src="perfil.jpg">
 
 # Welcome!
 
