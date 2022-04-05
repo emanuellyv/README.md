@@ -6,11 +6,11 @@
 
 ## I'm Emanuelly, it's a pleasure to have you here, so let me present a little about myself!
 
-📕 Student of Analysis and Systems Development;
+📕 1st semester of Analysis and Systems Development;
 
 💬 Intermediary English;
 
-📚 Intermediate knowledge: HTML5 and CSS3;
+📚 Intermediate knowledge: HTML5, CSS3, Bootstrap and AdobeXD;
 
 📚 Basic knowledge: JavaScript, PHP, SQL and NodeJS;
 
