@@ -11,6 +11,7 @@
 💬 Intermediary English;
 
 📚 Intermediate knowledge: HTML5 and CSS3;
+
 📚 Basic knowledge: JavaScript, PHP, SQL and NodeJS;
 
 ## About me 
